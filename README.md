@@ -13,3 +13,13 @@ En el archivo de .gitignore debe especificarse que no copie:
 + La carpeta de **recursos**
 + La carpeta de **img** y **video** de la carpeta Dist
 + Los archivos que sean videos, imgs o audios
+
+## ¿Cómo descargo el repositorio?
+Te recomendamos que descargues el repositorio dandole click aquí:
+![alt text](https://github.com/sebastyler/prueba1/blob/master/img/Screenshot_1.png?raw=true)
+
+O puedes clonar el repositorio directamente desde la **Git bash** así:
+![alt text](https://github.com/sebastyler/prueba1/blob/master/Screenshot_4.png?raw=true)
+
+Recuerda que tienes que crear un reposiotio antes de poder clonar.
+
